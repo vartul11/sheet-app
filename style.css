@@ -1,0 +1,21 @@
+
+input {
+    border: none;
+    width: 80px;
+    font-size: 14px;
+    padding: 2px;
+}
+
+
+input:not(:focus) {
+    text-align: right;
+}
+
+table {
+    border-collapse: collapse;  
+}
+
+td {
+    border: 1px solid #999;
+    padding: 0;
+}
